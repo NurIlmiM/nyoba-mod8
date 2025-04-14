@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{2AEE8F53-7250-4577-A323-EF606A3A2FB5}|nyoba MOD8\\nyoba MOD8.csproj|c:\\users\\huawei\\documents\\semester 4\\praktikum konstruksi pl\\nyoba mod8\\nyoba mod8\\nyoba mod8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AEE8F53-7250-4577-A323-EF606A3A2FB5}|nyoba MOD8\\nyoba MOD8.csproj|solutionrelative:nyoba mod8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE8F53-7250-4577-A323-EF606A3A2FB5}|nyoba MOD8\\nyoba MOD8.csproj|c:\\users\\huawei\\documents\\semester 4\\praktikum konstruksi pl\\nyoba mod8\\nyoba mod8\\nyoba mod8\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEE8F53-7250-4577-A323-EF606A3A2FB5}|nyoba MOD8\\nyoba MOD8.csproj|solutionrelative:nyoba mod8\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE8F53-7250-4577-A323-EF606A3A2FB5}|nyoba MOD8\\nyoba MOD8.csproj|c:\\users\\huawei\\documents\\semester 4\\praktikum konstruksi pl\\nyoba mod8\\nyoba mod8\\nyoba mod8\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AEE8F53-7250-4577-A323-EF606A3A2FB5}|nyoba MOD8\\nyoba MOD8.csproj|solutionrelative:nyoba mod8\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\Documents\\Semester 4\\Praktikum Konstruksi PL\\nyoba mod8\\nyoba MOD8\\nyoba MOD8\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "nyoba MOD8\\CovidConfig.cs",
+              "ToolTip": "C:\\Users\\HUAWEI\\Documents\\Semester 4\\Praktikum Konstruksi PL\\nyoba mod8\\nyoba MOD8\\nyoba MOD8\\CovidConfig.cs",
+              "RelativeToolTip": "nyoba MOD8\\CovidConfig.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T22:00:30.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "C:\\Users\\HUAWEI\\Documents\\Semester 4\\Praktikum Konstruksi PL\\nyoba mod8\\nyoba MOD8\\nyoba MOD8\\covid_config.json",
+              "RelativeDocumentMoniker": "nyoba MOD8\\covid_config.json",
+              "ToolTip": "C:\\Users\\HUAWEI\\Documents\\Semester 4\\Praktikum Konstruksi PL\\nyoba mod8\\nyoba MOD8\\nyoba MOD8\\covid_config.json",
+              "RelativeToolTip": "nyoba MOD8\\covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T21:59:42.693Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "nyoba MOD8\\Program.cs",
               "ToolTip": "C:\\Users\\HUAWEI\\Documents\\Semester 4\\Praktikum Konstruksi PL\\nyoba mod8\\nyoba MOD8\\nyoba MOD8\\Program.cs",
               "RelativeToolTip": "nyoba MOD8\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T21:35:18.722Z",
               "EditorCaption": ""

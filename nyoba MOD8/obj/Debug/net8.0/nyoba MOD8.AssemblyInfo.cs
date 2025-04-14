@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nyoba MOD8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e074b61b7ec912e12a3e5ac01a1fd6839432b3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af744ac718276515085cf02006982099e6b59093")]
 [assembly: System.Reflection.AssemblyProductAttribute("nyoba MOD8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nyoba MOD8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

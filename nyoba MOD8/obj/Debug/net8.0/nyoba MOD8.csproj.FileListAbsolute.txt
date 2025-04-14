@@ -1,0 +1,15 @@
+C:\Users\HUAWEI\Documents\Semester 4\Praktikum Konstruksi PL\nyoba mod8\nyoba MOD8\nyoba MOD8\bin\Debug\net8.0\nyoba MOD8.exe
+C:\Users\HUAWEI\Documents\Semester 4\Praktikum Konstruksi PL\nyoba mod8\nyoba MOD8\nyoba MOD8\bin\Debug\net8.0\nyoba MOD8.deps.json
+C:\Users\HUAWEI\Documents\Semester 4\Praktikum Konstruksi PL\nyoba mod8\nyoba MOD8\nyoba MOD8\bin\Debug\net8.0\nyoba MOD8.runtimeconfig.json
+C:\Users\HUAWEI\Documents\Semester 4\Praktikum Konstruksi PL\nyoba mod8\nyoba MOD8\nyoba MOD8\bin\Debug\net8.0\nyoba MOD8.dll
+C:\Users\HUAWEI\Documents\Semester 4\Praktikum Konstruksi PL\nyoba mod8\nyoba MOD8\nyoba MOD8\bin\Debug\net8.0\nyoba MOD8.pdb
+C:\Users\HUAWEI\Documents\Semester 4\Praktikum Konstruksi PL\nyoba mod8\nyoba MOD8\nyoba MOD8\obj\Debug\net8.0\nyoba MOD8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI\Documents\Semester 4\Praktikum Konstruksi PL\nyoba mod8\nyoba MOD8\nyoba MOD8\obj\Debug\net8.0\nyoba MOD8.AssemblyInfoInputs.cache
+C:\Users\HUAWEI\Documents\Semester 4\Praktikum Konstruksi PL\nyoba mod8\nyoba MOD8\nyoba MOD8\obj\Debug\net8.0\nyoba MOD8.AssemblyInfo.cs
+C:\Users\HUAWEI\Documents\Semester 4\Praktikum Konstruksi PL\nyoba mod8\nyoba MOD8\nyoba MOD8\obj\Debug\net8.0\nyoba MOD8.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Documents\Semester 4\Praktikum Konstruksi PL\nyoba mod8\nyoba MOD8\nyoba MOD8\obj\Debug\net8.0\nyoba MOD8.sourcelink.json
+C:\Users\HUAWEI\Documents\Semester 4\Praktikum Konstruksi PL\nyoba mod8\nyoba MOD8\nyoba MOD8\obj\Debug\net8.0\nyoba MOD8.dll
+C:\Users\HUAWEI\Documents\Semester 4\Praktikum Konstruksi PL\nyoba mod8\nyoba MOD8\nyoba MOD8\obj\Debug\net8.0\refint\nyoba MOD8.dll
+C:\Users\HUAWEI\Documents\Semester 4\Praktikum Konstruksi PL\nyoba mod8\nyoba MOD8\nyoba MOD8\obj\Debug\net8.0\nyoba MOD8.pdb
+C:\Users\HUAWEI\Documents\Semester 4\Praktikum Konstruksi PL\nyoba mod8\nyoba MOD8\nyoba MOD8\obj\Debug\net8.0\nyoba MOD8.genruntimeconfig.cache
+C:\Users\HUAWEI\Documents\Semester 4\Praktikum Konstruksi PL\nyoba mod8\nyoba MOD8\nyoba MOD8\obj\Debug\net8.0\ref\nyoba MOD8.dll
